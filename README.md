@@ -7,30 +7,41 @@ Steps Followed:
 
 
 Reading Data
+
 Cleaning Data
+
 EDA
+
 Creating Dummy
+
 Splitting data into train and test set
+
 Building Model
+
 Making Predictions
+
 Model Evaluation
+
 ROC Curve
+
 Prediction on test set
+
 Precision- Recall.
 
 
-Details of files given
 
-Sid-Lead Score Assignment .ipynb : The python file showing coding and data analysis/n
+Details of files given-
 
-Subjective-Lead Score.pdf : Some subjective questions answered/n
+Sid-Lead Score Assignment .ipynb : The python file showing coding and data analysis
 
-Lead Score Case Study PPT.pdf : Final Presentation/n
+Subjective-Lead Score.pdf : Some subjective questions answered
 
-Lead Score Summary.pdf : Summary on what's done in the entire py file/n
+Lead Score Case Study PPT.pdf : Final Presentation
+
+Lead Score Summary.pdf : Summary on what's done in the entire py file
 
 
-Leads.csv : Data worked on/n
+Leads.csv : Data worked on
 
 Leads Data Dictionary.xlsx : Data Dictionary
 
